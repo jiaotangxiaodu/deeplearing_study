@@ -79,15 +79,15 @@ class TwoLayerNet:
 
     def _loss(self, X, y):
         ## entropy
-        # p = self._predict(X)
-        # t = np.eye(p.shape[1], dtype='int')[y]
-        # return self._entropy(p, t)
-
-        ## mse
         p = self._predict(X)
         t = np.eye(p.shape[1], dtype='int')[y]
-        mse = np.sum((p - t) ** 2) / 2
-        return mse
+        return self._entropy(p, t)
+
+        ## mse
+        # p = self._predict(X)
+        # t = np.eye(p.shape[1], dtype='int')[y]
+        # mse = np.sum((p - t) ** 2) / 2
+        # return mse
 
     def _entropy(self, p, t):
         if p.ndim > 1:

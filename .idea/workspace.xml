@@ -2,16 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9b2f8c9-22e5-4fc9-9cea-ec7f3ffc67cf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebook/ch05/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebook/ch05/buy_apple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebook/ch05/buy_apple_orange.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebook/ch05/layer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebook/ch05/layer_naive.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebook/ch05/mnist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebook/ch05/two_layer_net" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebook/ch05/two_layer_net(1).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/deeplearningProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deeplearningProjects.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,37 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/notebook/ch05/two_layer_net">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="71" column="24" selection-start-line="71" selection-start-column="24" selection-end-line="71" selection-end-column="24" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/notebook/ch05/two_layer_net(1).py">
+        <entry file="file://$PROJECT_DIR$/example/deep-learning-from-scratch/common/optimizer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="113" column="45" lean-forward="true" selection-start-line="113" selection-start-column="45" selection-end-line="113" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/notebook/ch04/work/二层神经网络.ipynb">
-          <provider selected="true" editor-type-id="jupyter-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/notebook/ch05/layer.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-199">
-              <caret line="57" column="22" lean-forward="true" selection-start-line="57" selection-start-column="22" selection-end-line="57" selection-end-column="22" />
+            <state relative-caret-position="1426">
+              <caret line="99" column="45" selection-start-line="99" selection-start-column="13" selection-end-line="99" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -127,10 +91,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1903" />
-    <option name="y" value="-6" />
-    <option name="width" value="1852" />
-    <option name="height" value="930" />
+    <option name="x" value="-1639" />
+    <option name="y" value="79" />
+    <option name="width" value="1440" />
+    <option name="height" value="784" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -140,28 +104,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Scope 'Default Changelist'; set:Default Changelist; class com.intellij.packageDependencies.ChangeListScope">
-          <expand>
-            <path>
-              <item name="deeplearningProjects" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/deeplearningProjects" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-            <path>
-              <item name="deeplearningProjects" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/deeplearningProjects" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="notebook" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="deeplearningProjects" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/deeplearningProjects" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="notebook" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="ch05" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -185,14 +127,7 @@
               <item name="deeplearningProjects" type="462c0819:PsiDirectoryNode" />
               <item name="example" type="462c0819:PsiDirectoryNode" />
               <item name="deep-learning-from-scratch" type="462c0819:PsiDirectoryNode" />
-              <item name="ch04" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="deeplearningProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="deeplearningProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="deep-learning-from-scratch" type="462c0819:PsiDirectoryNode" />
-              <item name="ch05" type="462c0819:PsiDirectoryNode" />
+              <item name="ch06" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="deeplearningProjects" type="b2602c69:ProjectViewProjectNode" />
@@ -209,37 +144,13 @@
             <path>
               <item name="deeplearningProjects" type="b2602c69:ProjectViewProjectNode" />
               <item name="deeplearningProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="notebook" type="462c0819:PsiDirectoryNode" />
-              <item name="ch04" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="deeplearningProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="deeplearningProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="notebook" type="462c0819:PsiDirectoryNode" />
-              <item name="ch04" type="462c0819:PsiDirectoryNode" />
-              <item name="work" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="deeplearningProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="deeplearningProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="notebook" type="462c0819:PsiDirectoryNode" />
-              <item name="ch05" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="deeplearningProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="deeplearningProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="notebook" type="462c0819:PsiDirectoryNode" />
-              <item name="dataset" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="deeplearningProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="deeplearningProjects" type="462c0819:PsiDirectoryNode" />
               <item name="pycode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -318,6 +229,9 @@
       <module name="deeplearningProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/notebook/ch05" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -337,6 +251,9 @@
       <module name="deeplearningProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/notebook/ch05" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -356,6 +273,9 @@
       <module name="deeplearningProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/example/deep-learning-from-scratch/common" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -375,6 +295,9 @@
       <module name="deeplearningProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/notebook/ch05" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -394,6 +317,9 @@
       <module name="deeplearningProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/notebook/ch05" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -431,18 +357,21 @@
       <updated>1560397810893</updated>
       <workItem from="1560397812746" duration="6275000" />
       <workItem from="1560583293194" duration="46288000" />
-      <workItem from="1560856262901" duration="29031000" />
+      <workItem from="1560856262901" duration="29762000" />
+      <workItem from="1561102194057" duration="1538000" />
+      <workItem from="1561358252921" duration="417000" />
+      <workItem from="1561626662489" duration="1365000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81594000" />
+    <option name="totallyTimeSpent" value="85645000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1903" y="-6" width="1852" height="930" extended-state="0" />
+    <frame x="-1639" y="79" width="1440" height="784" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11270718" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29828325" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="0" />
@@ -458,13 +387,13 @@
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.32906976" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="13" visible="true" weight="0.2529833" />
+      <window_info anchor="bottom" id="Python Console" order="13" weight="0.41473988" />
       <window_info anchor="bottom" id="Jupyter" order="14" weight="0.32930845" />
-      <window_info anchor="right" x="0" y="0" width="413" height="730" id="Documentation" order="0" sideWeight="0.50390625" side_tool="true" weight="0.26685083" />
+      <window_info anchor="right" x="0" y="0" width="413" height="730" id="Documentation" order="0" sideWeight="0.51111114" side_tool="true" weight="0.44134477" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="4" sideWeight="0.49609375" visible="true" weight="0.20110497" />
+      <window_info anchor="right" id="SciView" order="4" sideWeight="0.4888889" weight="0.44134477" />
       <window_info anchor="right" id="Database" order="5" />
     </layout>
   </component>
@@ -547,13 +476,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file:///usr/local/lib/python3.7/site-packages/numpy/core/fromnumeric.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="55" selection-start-line="55" selection-end-line="55" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///usr/local/lib/python3.7/site-packages/numpy/random/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="158">
@@ -768,15 +690,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/notebook/a/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/notebook/a/__init__.py" />
     <entry file="file://$PROJECT_DIR$/notebook/ch05/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/notebook/ch05/test.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/notebook/ch05/test.py" />
     <entry file="file://$PROJECT_DIR$/notebook/ch04/work/二层神经网络.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -843,16 +761,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/notebook/ch05/layer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-199">
-          <caret line="57" column="22" lean-forward="true" selection-start-line="57" selection-start-column="22" selection-end-line="57" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/notebook/ch05/two_layer_net">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
+        <state relative-caret-position="1035">
           <caret line="71" column="24" selection-start-line="71" selection-start-column="24" selection-end-line="71" selection-end-column="24" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
@@ -863,10 +774,24 @@
     <entry file="file://$PROJECT_DIR$/notebook/ch04/work/二层神经网络.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/notebook/ch05/layer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="57" column="22" selection-start-line="57" selection-start-column="22" selection-end-line="57" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/notebook/ch05/two_layer_net(1).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="113" column="45" lean-forward="true" selection-start-line="113" selection-start-column="45" selection-end-line="113" selection-end-column="45" />
+        <state relative-caret-position="210">
+          <caret line="109" column="49" selection-start-line="109" selection-start-column="49" selection-end-line="109" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/deep-learning-from-scratch/common/optimizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1426">
+          <caret line="99" column="45" selection-start-line="99" selection-start-column="13" selection-end-line="99" selection-end-column="45" />
         </state>
       </provider>
     </entry>

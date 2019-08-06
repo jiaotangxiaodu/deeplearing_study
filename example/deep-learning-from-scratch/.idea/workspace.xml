@@ -2,42 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e192d88e-49fe-48c3-93f7-3d6039de8ad3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../deeplearning_ai/week2/datasets/test_catvnoncat.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../deeplearning_ai/week2/datasets/train_catvnoncat.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../deeplearning_ai/week2/lr_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../deeplearning_ai/week2/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../deeplearning_ai/week3/backward_propagation" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../deeplearning_ai/week3/logistic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../deeplearning_ai/week3/nn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../deeplearning_ai/week3/planar_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../deeplearning_ai/week3/testCases.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../deeplearning_ai/week4/datasets/test_catvnoncat.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../deeplearning_ai/week4/datasets/train_catvnoncat.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../deeplearning_ai/week4/dnn_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../deeplearning_ai/week4/layers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../deeplearning_ai/week4/lr_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../deeplearning_ai/week4/mynn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../deeplearning_ai/week4/nn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../deeplearning_ai/week4/testCases.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/deep-learning-from-scratch.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../notebook/ch07/simple_convnet.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/deeplearningProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/deeplearningProjects.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch06/optimizer_compare_mnist.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch06/optimizer_compare_mnist.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../notebook/ch06/contour.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../notebook/ch06/contour.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../notebook/ch06/optimizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../notebook/ch06/optimizer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../notebook/ch06/optimizer_compare_native" beforeDir="false" afterPath="$PROJECT_DIR$/../../notebook/ch06/optimizer_compare_native" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../notebook/ch06/optimizer_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../notebook/ch06/optimizer_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../notebook/common/layers.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../notebook/common/layers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../notebook/mycommon/functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../notebook/mycommon/functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../notebook/mycommon/layers.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../notebook/mycommon/layers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../notebook/mycommon/mul_layer_net.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../notebook/mycommon/mul_layer_net.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../notebook/mycommon/optimizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../notebook/mycommon/optimizer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../deeplearning_ai/week4/layers.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../deeplearning_ai/week4/layers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../deeplearning_ai/week4/nn.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../deeplearning_ai/week4/nn.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,8 +35,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/common/layers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="78" column="28" selection-start-line="78" selection-start-column="28" selection-end-line="78" selection-end-column="28" />
+            <state relative-caret-position="218">
+              <caret line="72" column="34" lean-forward="true" selection-start-line="72" selection-start-column="34" selection-end-line="72" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -172,15 +139,16 @@
       <updated>1564976380700</updated>
       <workItem from="1564976382118" duration="927000" />
       <workItem from="1565058190248" duration="586000" />
-      <workItem from="1565061747377" duration="2004000" />
+      <workItem from="1565061747377" duration="2602000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3517000" />
+    <option name="totallyTimeSpent" value="4115000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="258" y="23" width="1110" height="793" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.124531835" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -235,8 +203,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/common/layers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="78" column="28" selection-start-line="78" selection-start-column="28" selection-end-line="78" selection-end-column="28" />
+        <state relative-caret-position="218">
+          <caret line="72" column="34" lean-forward="true" selection-start-line="72" selection-start-column="34" selection-end-line="72" selection-end-column="34" />
         </state>
       </provider>
     </entry>

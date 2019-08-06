@@ -38,11 +38,6 @@ class Sigmoid(AbstractLayer):
         self.Y = None
 
     def forward(self, X):
-        X_min = np.min(X)
-        # if X_min < 0:
-        #     self.Y = np.exp(X_min) / (np.exp(X_min) + np.exp(-X+X_min))
-        # else:
-        #     self.Y = 1./(1+np.exp(-X))
         self.Y = 1. / (1. + np.exp(-X))
         return self.Y
 

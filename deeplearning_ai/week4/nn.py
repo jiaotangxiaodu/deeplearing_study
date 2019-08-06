@@ -192,7 +192,7 @@ def two_layers_model(X,Y,layers_dims,learning_rate=0.0075,num_iterations=3000,pr
         A1, cache1 = linear_activation_forward(X, W1, b1, 'relu')
         A2, cache2 = linear_activation_forward(A1,W2,b2,'sigmoid')
         AL = A2
-        if i % 1 == 0:
+        if i % 100 == 0:
             cost = compute_cost(AL, Y)
             costs.append(cost)
             if print_cost:
@@ -231,7 +231,7 @@ if __name__ == '__main__':
     n_y = 1
     layers_dims = (n_x, n_h, n_y)
 
-    parameters = two_layers_model(train_x, train_set_y, layers_dims=(n_x, n_h, n_y), num_iterations=2000,
+    parameters = two_layers_model(train_x, train_set_y, layers_dims=(n_x, n_h, n_y), num_iterations=10000,
                                  print_cost=True, isPlot=True)
     predict(train_x,train_y,parameters)
     predict(test_x,test_y,parameters)

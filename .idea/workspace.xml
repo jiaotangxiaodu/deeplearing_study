@@ -2,7 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9b2f8c9-22e5-4fc9-9cea-ec7f3ffc67cf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeplearning_ai/week2/datasets/test_catvnoncat.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeplearning_ai/week2/datasets/train_catvnoncat.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeplearning_ai/week2/lr_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeplearning_ai/week2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeplearning_ai/week3/backward_propagation" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeplearning_ai/week3/logistic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeplearning_ai/week3/nn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeplearning_ai/week3/planar_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeplearning_ai/week3/testCases.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeplearning_ai/week4/datasets/test_catvnoncat.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeplearning_ai/week4/datasets/train_catvnoncat.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeplearning_ai/week4/dnn_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeplearning_ai/week4/layers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeplearning_ai/week4/lr_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeplearning_ai/week4/mynn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeplearning_ai/week4/nn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeplearning_ai/week4/testCases.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/deep-learning-from-scratch/.idea/deep-learning-from-scratch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/deep-learning-from-scratch/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/deep-learning-from-scratch/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/deep-learning-from-scratch/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/deep-learning-from-scratch/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/ch07/simple_convnet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deeplearningProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deeplearningProjects.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/deep-learning-from-scratch/ch06/optimizer_compare_mnist.py" beforeDir="false" afterPath="$PROJECT_DIR$/example/deep-learning-from-scratch/ch06/optimizer_compare_mnist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook/ch06/contour.py" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/ch06/contour.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook/ch06/optimizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/ch06/optimizer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook/ch06/optimizer_compare_native" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/ch06/optimizer_compare_native" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook/ch06/optimizer_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/ch06/optimizer_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook/common/layers.py" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/common/layers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook/mycommon/functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/mycommon/functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook/mycommon/layers.py" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/mycommon/layers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook/mycommon/mul_layer_net.py" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/mycommon/mul_layer_net.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook/mycommon/optimizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/mycommon/optimizer.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,13 +45,51 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/example/deep-learning-from-scratch/common/optimizer.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/deeplearning_ai/week4/nn.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1426">
-              <caret line="99" column="45" selection-start-line="99" selection-start-column="13" selection-end-line="99" selection-end-column="45" />
+            <state relative-caret-position="309">
+              <caret line="102" column="14" selection-start-line="102" selection-start-column="13" selection-end-line="102" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/deeplearning_ai/week4/mynn.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-197">
+              <caret line="46" column="19" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/deeplearning_ai/week4/layers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="403">
+              <caret line="68" column="13" selection-start-line="68" selection-start-column="13" selection-end-line="68" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -32,36 +105,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>model</find>
-      <find>cross_entropy_error</find>
-      <find>TwoLayerNet(</find>
-      <find>network</find>
-      <find>t_train</find>
-      <find>loss</find>
-      <find>numerical_gradient</find>
-      <find>fit</find>
-      <find>plot_decision_boundary</find>
-      <find>load_mnist</find>
-      <find>gradient(self,</find>
-      <find>t</find>
-      <find>def gradient(self, x, t):</find>
-      <find>d_apple_cost</find>
-      <find>d_out</find>
-      <find>main</find>
-      <find>soft</find>
-      <find>cross</find>
-      <find>reverse(</find>
-      <find>plt.sca</find>
-      <find>?</find>
-      <find>layers</find>
-      <find>try</find>
-      <find>predict</find>
-      <find>print</find>
-      <find>eta</find>
-      <find>plt.sc</find>
-      <find>plot_</find>
+      <find>self.dW</find>
+      <find>self.b</find>
+      <find>conv_output_size</find>
+      <find>self.para</find>
+      <find>last_layer</find>
+      <find>random</find>
+      <find>np.random</find>
+      <find>W2</find>
       <find>sca</find>
-      <find>np.arg</find>
+      <find>dnn_utils</find>
+      <find>line</find>
+      <find>linear</find>
+      <find>cur_cache</find>
+      <find>cache</find>
+      <find>train_catvnoncat</find>
+      <find>dim</find>
+      <find>L</find>
+      <find>L =</find>
+      <find>layers_dims</find>
+      <find>train_y</find>
+      <find>sigmoid</find>
+      <find>lear</find>
+      <find>dAL</find>
+      <find>0.007</find>
+      <find>AL</find>
+      <find>cost_layer</find>
+      <find>label=</find>
+      <find>layer</find>
+      <find>lr</find>
+      <find>m</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -87,14 +160,41 @@
         <option value="$PROJECT_DIR$/notebook/ch05/layer.py" />
         <option value="$PROJECT_DIR$/notebook/ch05/two_layer_net" />
         <option value="$PROJECT_DIR$/notebook/ch05/two_layer_net(1).py" />
+        <option value="$PROJECT_DIR$/notebook/ch06/contour.py" />
+        <option value="$PROJECT_DIR$/example/deep-learning-from-scratch/common/optimizer.py" />
+        <option value="$PROJECT_DIR$/notebook/common/optimizer.py" />
+        <option value="$PROJECT_DIR$/notebook/ch06/optimizer.py" />
+        <option value="$PROJECT_DIR$/notebook/ch06/optimizer_compare_native" />
+        <option value="$PROJECT_DIR$/notebook/ch06/optimizer_test.py" />
+        <option value="$PROJECT_DIR$/notebook/mycommon/layers.py" />
+        <option value="$PROJECT_DIR$/notebook/mycommon/functions.py" />
+        <option value="$PROJECT_DIR$/notebook/mycommon/optimizer.py" />
+        <option value="$PROJECT_DIR$/notebook/common/multi_layer_net.py" />
+        <option value="$PROJECT_DIR$/example/deep-learning-from-scratch/ch06/optimizer_compare_mnist.py" />
+        <option value="$PROJECT_DIR$/notebook/mycommon/mul_layer_net.py" />
+        <option value="$PROJECT_DIR$/example/deep-learning-from-scratch/ch07/simple_convnet.py" />
+        <option value="$PROJECT_DIR$/notebook/common/layers.py" />
+        <option value="$PROJECT_DIR$/notebook/ch07/simple_convnet.py" />
+        <option value="$PROJECT_DIR$/deeplearning_ai/week2/main.py" />
+        <option value="$PROJECT_DIR$/deeplearning_ai/week3/planar_utils.py" />
+        <option value="$PROJECT_DIR$/deeplearning_ai/week3/main.py" />
+        <option value="$PROJECT_DIR$/deeplearning_ai/week3/nn.py" />
+        <option value="$PROJECT_DIR$/deeplearning_ai/week3/backward_propagation" />
+        <option value="$PROJECT_DIR$/deeplearning_ai/week4/testCase.py" />
+        <option value="$PROJECT_DIR$/deeplearning_ai/week4/dnn_utils.py" />
+        <option value="$PROJECT_DIR$/deeplearning_ai/week4/lr_utils.py" />
+        <option value="$PROJECT_DIR$/deeplearning_ai/week4/test" />
+        <option value="$PROJECT_DIR$/deeplearning_ai/week4/nn.py" />
+        <option value="$PROJECT_DIR$/deeplearning_ai/week4/mynn.py" />
+        <option value="$PROJECT_DIR$/deeplearning_ai/week4/layers.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1639" />
-    <option name="y" value="79" />
-    <option name="width" value="1440" />
-    <option name="height" value="784" />
+    <option name="x" value="-1920" />
+    <option name="y" value="-47" />
+    <option name="width" value="1920" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -104,6 +204,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -114,58 +215,63 @@
             <path>
               <item name="deeplearningProjects" type="b2602c69:ProjectViewProjectNode" />
               <item name="deeplearningProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="deeplearning_ai" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="deeplearningProjects" type="b2602c69:ProjectViewProjectNode" />
               <item name="deeplearningProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="deep-learning-from-scratch" type="462c0819:PsiDirectoryNode" />
+              <item name="deeplearning_ai" type="462c0819:PsiDirectoryNode" />
+              <item name="week2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="deeplearningProjects" type="b2602c69:ProjectViewProjectNode" />
               <item name="deeplearningProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="deep-learning-from-scratch" type="462c0819:PsiDirectoryNode" />
-              <item name="ch06" type="462c0819:PsiDirectoryNode" />
+              <item name="deeplearning_ai" type="462c0819:PsiDirectoryNode" />
+              <item name="week2" type="462c0819:PsiDirectoryNode" />
+              <item name="datasets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="deeplearningProjects" type="b2602c69:ProjectViewProjectNode" />
               <item name="deeplearningProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="deep-learning-from-scratch" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="deeplearning_ai" type="462c0819:PsiDirectoryNode" />
+              <item name="week3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deeplearningProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="deeplearningProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="deeplearning_ai" type="462c0819:PsiDirectoryNode" />
+              <item name="week4" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="deeplearningProjects" type="b2602c69:ProjectViewProjectNode" />
               <item name="deeplearningProjects" type="462c0819:PsiDirectoryNode" />
               <item name="notebook" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="deeplearningProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="deeplearningProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="pycode" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/notebook/ch05" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/deeplearning_ai/week4" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/notebook/ch05" />
-      <recent name="$PROJECT_DIR$/notebook/ch04" />
+      <recent name="$PROJECT_DIR$/deeplearning_ai/week4" />
+      <recent name="$PROJECT_DIR$/deeplearning_ai/week2" />
+      <recent name="$PROJECT_DIR$/notebook/common" />
+      <recent name="$PROJECT_DIR$/notebook" />
+      <recent name="$PROJECT_DIR$/example/deep-learning-from-scratch/ch06" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/deeplearning_ai/week3" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -180,29 +286,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.two_layer_net(1)">
-    <configuration name="简单单层神经网络" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="deeplearningProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/notebook/ch04/work" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/notebook/ch04/work/简单单层神经网络.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.mynn">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="deeplearningProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -225,7 +309,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="buy_apple_orange" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="deeplearningProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -233,12 +317,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/notebook/ch05" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/deeplearning_ai/week3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/notebook/ch05/buy_apple_orange.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/deeplearning_ai/week3/logistic.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -247,7 +331,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="layer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="deeplearningProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -255,12 +339,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/notebook/ch05" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/deeplearning_ai/week2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/notebook/ch05/layer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/deeplearning_ai/week2/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -269,20 +353,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="layers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="mynn" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="deeplearningProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/example/deep-learning-from-scratch/common" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/deeplearning_ai/week4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/example/deep-learning-from-scratch/common/layers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/deeplearning_ai/week4/mynn.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -291,20 +372,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="two_layer_net" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="nn (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="deeplearningProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/notebook/ch05" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/deeplearning_ai/week4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/notebook/ch05/two_layer_net" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/deeplearning_ai/week4/nn.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -313,7 +391,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="two_layer_net(1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="nn" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="deeplearningProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -321,12 +399,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/notebook/ch05" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/deeplearning_ai/week3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/notebook/ch05/two_layer_net(1).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/deeplearning_ai/week3/nn.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -337,11 +415,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.two_layer_net(1)" />
-        <item itemvalue="Python.two_layer_net" />
-        <item itemvalue="Python.layer" />
-        <item itemvalue="Python.layers" />
-        <item itemvalue="Python.buy_apple_orange" />
+        <item itemvalue="Python.mynn" />
+        <item itemvalue="Python.nn (1)" />
+        <item itemvalue="Python.nn" />
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
@@ -360,40 +438,48 @@
       <workItem from="1560856262901" duration="29762000" />
       <workItem from="1561102194057" duration="1538000" />
       <workItem from="1561358252921" duration="417000" />
-      <workItem from="1561626662489" duration="1365000" />
+      <workItem from="1561626662489" duration="23331000" />
+      <workItem from="1561954711023" duration="10201000" />
+      <workItem from="1562644410769" duration="16375000" />
+      <workItem from="1563503219896" duration="9631000" />
+      <workItem from="1564023053999" duration="14254000" />
+      <workItem from="1564475268012" duration="1983000" />
+      <workItem from="1564556095934" duration="11745000" />
+      <workItem from="1564639981825" duration="6904000" />
+      <workItem from="1564973275690" duration="3483000" />
+      <workItem from="1565058189500" duration="12867000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85645000" />
+    <option name="totallyTimeSpent" value="195054000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1639" y="79" width="1440" height="784" extended-state="0" />
-    <editor active="true" />
+    <frame x="-1920" y="-47" width="1920" height="1057" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29828325" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12513313" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="0" />
-      <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Find" order="2" weight="0.32905984" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.2398568" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.45338982" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3284974" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2398568" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.42072538" />
+      <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32906976" />
-      <window_info anchor="bottom" id="Python Console" order="13" weight="0.41473988" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.29016393" side_tool="true" weight="0.35206422" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.14715026" />
+      <window_info anchor="bottom" id="Python Console" order="13" sideWeight="0.70983607" visible="true" weight="0.31295338" />
       <window_info anchor="bottom" id="Jupyter" order="14" weight="0.32930845" />
-      <window_info anchor="right" x="0" y="0" width="413" height="730" id="Documentation" order="0" sideWeight="0.51111114" side_tool="true" weight="0.44134477" />
+      <window_info anchor="right" x="0" y="0" width="413" height="730" id="Documentation" order="0" sideWeight="0.2460733" side_tool="true" weight="0.33615342" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="4" sideWeight="0.4888889" weight="0.44134477" />
+      <window_info anchor="right" id="SciView" order="4" sideWeight="0.7539267" visible="true" weight="0.24813631" />
       <window_info anchor="right" id="Database" order="5" />
     </layout>
   </component>
@@ -404,9 +490,24 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/notebook/ch05/two_layer_net</url>
-          <line>61</line>
-          <option name="timeStamp" value="90" />
+          <url>file://$PROJECT_DIR$/deeplearning_ai/week4/mynn.py</url>
+          <line>65</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/deeplearning_ai/week4/mynn.py</url>
+          <line>49</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/deeplearning_ai/week4/nn.py</url>
+          <line>200</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/deeplearning_ai/week4/layers.py</url>
+          <line>73</line>
+          <option name="timeStamp" value="71" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -417,381 +518,428 @@
     <SUITE FILE_PATH="coverage/deeplearningProjects$train_neuralnet.coverage" NAME="train_neuralnet Coverage Results" MODIFIED="1560911182653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/example/deep-learning-from-scratch/ch04" />
     <SUITE FILE_PATH="coverage/deeplearningProjects$mini_batch.coverage" NAME="mini_batch实现二层神经网络 Coverage Results" MODIFIED="1560766305080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/notebook/ch04" />
     <SUITE FILE_PATH="coverage/deeplearningProjects$mnist_batch.coverage" NAME="mnist_batch Coverage Results" MODIFIED="1560910896691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/notebook/ch04" />
-    <SUITE FILE_PATH="coverage/deeplearningProjects$layer.coverage" NAME="layer Coverage Results" MODIFIED="1561022987954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/notebook/ch05" />
-    <SUITE FILE_PATH="coverage/deeplearningProjects$hungry.coverage" NAME="hungry Coverage Results" MODIFIED="1560397917573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/example/deep-learning-from-scratch/ch01" />
+    <SUITE FILE_PATH="coverage/deeplearningProjects$nn__1_.coverage" NAME="nn (1) Coverage Results" MODIFIED="1565077291606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/deeplearning_ai/week4" />
+    <SUITE FILE_PATH="coverage/deeplearningProjects$mynn.coverage" NAME="mynn Coverage Results" MODIFIED="1565077518983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/deeplearning_ai/week4" />
+    <SUITE FILE_PATH="coverage/deeplearningProjects$layers.coverage" NAME="layers Coverage Results" MODIFIED="1561963801277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/notebook/mycommon" />
+    <SUITE FILE_PATH="coverage/deeplearningProjects$simple_convnet.coverage" NAME="simple_convnet Coverage Results" MODIFIED="1562752247619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/notebook/ch07" />
     <SUITE FILE_PATH="coverage/deeplearningProjects$.coverage" NAME="二层神经网络 Coverage Results" MODIFIED="1560856474587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/notebook/ch04/work" />
+    <SUITE FILE_PATH="coverage/deeplearningProjects$nn.coverage" NAME="nn Coverage Results" MODIFIED="1564045101681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/deeplearning_ai/week3" />
+    <SUITE FILE_PATH="coverage/deeplearningProjects$optimizer_compare_native.coverage" NAME="optimizer_compare_native Coverage Results" MODIFIED="1561709054924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/notebook/ch06" />
+    <SUITE FILE_PATH="coverage/deeplearningProjects$layers__1_.coverage" NAME="layers (1) Coverage Results" MODIFIED="1562751873973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/notebook/common" />
+    <SUITE FILE_PATH="coverage/deeplearningProjects$main.coverage" NAME="main Coverage Results" MODIFIED="1563508260651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/deeplearning_ai/week2" />
+    <SUITE FILE_PATH="coverage/deeplearningProjects$mul_layer_net.coverage" NAME="mul_layer_net Coverage Results" MODIFIED="1561967285180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/notebook/mycommon" />
+    <SUITE FILE_PATH="coverage/deeplearningProjects$layer.coverage" NAME="layer Coverage Results" MODIFIED="1561022987954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/notebook/ch05" />
+    <SUITE FILE_PATH="coverage/deeplearningProjects$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1564027021116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/deeplearning_ai/week3" />
+    <SUITE FILE_PATH="coverage/deeplearningProjects$hungry.coverage" NAME="hungry Coverage Results" MODIFIED="1560397917573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/example/deep-learning-from-scratch/ch01" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
       <expression>
-        <expression-string>-np.sum(np.log(y[np.arange(batch_size),t] + 1e-7))</expression-string>
+        <expression-string>np.array(Y_hat&gt;0.5,dtype='int') == Y</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>np.log(y[np.arange(batch_size),t] + 1e-7)</expression-string>
+        <expression-string>Y_hat&gt;0.5 == Y</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>y[np.arange(batch_size),t]</expression-string>
+        <expression-string>Y_hat&gt;0.5</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>np.arange(batch_size)</expression-string>
+        <expression-string>Y.shape</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>(y2-y3)/(2e-6)</expression-string>
+        <expression-string>dZ</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>y2-y3</expression-string>
+        <expression-string>self.X.T</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>y_1[1] - y_0[1]</expression-string>
+        <expression-string>self.Y</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>def sigmoid(x):     if x.ndim &gt; 1:         return np.array([sigmoid(x_row) for x_row in x])     return 1. / (1. + np.exp(-3*x))</expression-string>
+        <expression-string>np.exp(X_min) / (np.exp(X_min) + np.exp(-X+X_min))</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>A1[y==0,1]</expression-string>
+        <expression-string>np.exp(X_min)</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>A1[y==0,0]</expression-string>
+        <expression-string>self.params</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file:///usr/local/lib/python3.7/site-packages/numpy/random/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="145" column="7" selection-start-line="145" selection-start-column="7" selection-end-line="145" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example/deep-learning-from-scratch/ch05/gradient_check.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons/numpy/core/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="982" column="4" selection-start-line="982" selection-start-column="4" selection-end-line="982" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Library/Caches/PyCharm2019.1/python_stubs/-1199943126/numpy/core/_multiarray_umath.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="11146" column="4" selection-start-line="11146" selection-start-column="4" selection-end-line="11146" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example/deep-learning-from-scratch/ch04/gradient_1d.py">
+    <entry file="file://$PROJECT_DIR$/notebook/common/multi_layer_net_extend.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/example/deep-learning-from-scratch/ch04/gradient_2d.py">
+    <entry file="file://$PROJECT_DIR$/example/deep-learning-from-scratch/ch06/weight_init_compare.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-608" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/notebook/ch04/mini-batch的实现.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/notebook/ch04/梯度下降法训练单层神经网络.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Documents/notebook/utils/plot_decision_boundary.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example/deep-learning-from-scratch/ch04/gradient_simplenet.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="25" column="17" lean-forward="true" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+        <state relative-caret-position="263">
+          <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pycode/Test.py">
+    <entry file="file:///usr/local/lib/python3.7/site-packages/numpy/core/fromnumeric.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="17" selection-end-column="30" />
+        <state relative-caret-position="200">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/notebook/ch04/mini_batch实现二层神经网络.py">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_bundle/pydev_umd.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+        <state relative-caret-position="233">
+          <caret line="196" selection-start-line="196" selection-end-line="196" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/notebook/dataset/mnist.py">
+    <entry file="file://$PROJECT_DIR$/notebook/mycommon/layers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="89" column="58" selection-start-line="89" selection-start-column="45" selection-end-line="89" selection-end-column="58" />
+        <state relative-caret-position="184">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#0#57#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/notebook/common/functions.py">
+    <entry file="file://$PROJECT_DIR$/notebook/mycommon/optimizer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-320" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/notebook/common/gradient.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        <state relative-caret-position="378">
+          <caret line="52" column="6" selection-start-line="52" selection-start-column="6" selection-end-line="52" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/notebook/ch04/two_layer_net.py">
+    <entry file="file://$PROJECT_DIR$/example/deep-learning-from-scratch/ch06/optimizer_compare_naive.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="89" column="20" lean-forward="true" selection-start-line="86" selection-start-column="18" selection-end-line="89" selection-end-column="20" />
+        <state relative-caret-position="191">
+          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/notebook/ch04/mnist_batch.py">
+    <entry file="file://$PROJECT_DIR$/notebook/common/optimizer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="35" lean-forward="true" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+        <state relative-caret-position="-442">
+          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/deep-learning-from-scratch/ch06/optimizer_compare_mnist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-184">
+          <caret line="21" column="20" lean-forward="true" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebook/common/multi_layer_net.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebook/mycommon/mul_layer_net.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-108">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/example/deep-learning-from-scratch/ch08/deep_convnet.py">
+    <entry file="file://$PROJECT_DIR$/example/deep-learning-from-scratch/common/multi_layer_net_extend.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="99" column="29" lean-forward="true" selection-start-line="99" selection-start-column="4" selection-end-line="99" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example/deep-learning-from-scratch/ch07/simple_convnet.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1385">
-          <caret line="110" column="4" selection-start-line="110" selection-start-column="4" selection-end-line="110" selection-end-column="4" />
+        <state relative-caret-position="2430">
+          <caret line="162" column="20" lean-forward="true" selection-start-line="1" selection-end-line="162" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/example/deep-learning-from-scratch/common/gradient.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/deep-learning-from-scratch/common/multi_layer_net.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="47">
-          <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+        <state relative-caret-position="75">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/example/deep-learning-from-scratch/common/trainer.py">
+    <entry file="file://$PROJECT_DIR$/example/deep-learning-from-scratch/common/util.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-687" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example/deep-learning-from-scratch/ch04/train_neuralnet.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/notebook/ch05/buy_apple.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/notebook/ch05/layer_naive.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example/deep-learning-from-scratch/ch05/layer_naive.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_bundle/pydev_import_hook.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/lib/python3.7/site-packages/IPython/core/interactiveshell.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="3295" selection-start-line="3295" selection-end-line="3295" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_bundle/pydev_umd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2600">
-          <caret line="196" selection-start-line="196" selection-end-line="196" />
+        <state relative-caret-position="473">
+          <caret line="58" column="16" selection-start-line="58" selection-start-column="16" selection-end-line="58" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/example/deep-learning-from-scratch/common/layers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="65" column="59" lean-forward="true" selection-start-line="65" selection-start-column="59" selection-end-line="65" selection-end-column="59" />
+        <state relative-caret-position="7">
+          <caret line="197" column="10" selection-start-line="197" selection-start-column="6" selection-end-line="197" selection-end-column="10" />
           <folding>
             <element signature="e#16#34#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/example/deep-learning-from-scratch/ch03/step_function.py">
+    <entry file="file://$PROJECT_DIR$/notebook/common/util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="70" column="4" selection-start-line="70" selection-start-column="4" selection-end-line="70" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebook/common/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/notebook/ch05/buy_apple_orange.py">
+    <entry file="file://$PROJECT_DIR$/example/deep-learning-from-scratch/ch04/train_neuralnet.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="68" lean-forward="true" selection-start-line="26" selection-start-column="68" selection-end-line="26" selection-end-column="68" />
-          <folding>
-            <element signature="e#0#34#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/typing.pyi">
+    <entry file="file:///usr/local/lib/python3.7/site-packages/IPython/core/interactiveshell.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="276" column="8" selection-start-line="276" selection-start-column="8" selection-end-line="276" selection-end-column="8" />
+        <state relative-caret-position="200">
+          <caret line="3295" selection-start-line="3295" selection-end-line="3295" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/collections/__init__.pyi">
+    <entry file="file://$PROJECT_DIR$/example/deep-learning-from-scratch/ch07/simple_convnet.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="106" column="13" lean-forward="true" selection-start-line="106" selection-start-column="13" selection-end-line="106" selection-end-column="13" />
+        <state relative-caret-position="1370">
+          <caret line="125" selection-start-line="125" selection-end-line="125" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/notebook/a/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/notebook/ch05/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/notebook/ch05/test.py" />
-    <entry file="file://$PROJECT_DIR$/notebook/ch04/work/二层神经网络.py">
+    <entry file="file://$PROJECT_DIR$/example/deep-learning-from-scratch/common/functions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="106" selection-start-line="106" selection-end-line="107" selection-end-column="49" />
+        <state relative-caret-position="268">
+          <caret line="49" column="8" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebook/common/functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/deep-learning-from-scratch/ch06/dataset/mnist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="104" selection-start-line="104" selection-end-line="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebook/ch07/simple_convnet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="61" column="27" selection-start-line="61" selection-start-column="27" selection-end-line="61" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deeplearning_ai/week2/lr_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="16" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/notebook/ch04/work/简单单层神经网络.py">
+    <entry file="file://$PROJECT_DIR$/example/deep-learning-from-scratch/ch08/awesome_net.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/deep-learning-from-scratch/ch08/deep_convnet.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="57" column="13" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="160">
+          <caret line="39" column="60" selection-start-line="39" selection-start-column="51" selection-end-line="39" selection-end-column="60" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/notebook/ch04/二层神经网络.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/notebook/ch04/二层神经网络的实现.py">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="59" column="50" lean-forward="true" selection-start-line="59" selection-start-column="50" selection-end-line="59" selection-end-column="50" />
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="1134" selection-start-line="1134" selection-end-line="1134" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/example/deep-learning-from-scratch/ch04/two_layer_net.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1065">
-          <caret line="71" column="8" lean-forward="true" selection-start-line="71" selection-start-column="8" selection-end-line="71" selection-end-column="8" />
+        <state relative-caret-position="135">
+          <caret line="9" column="68" lean-forward="true" selection-start-line="9" selection-start-column="68" selection-end-line="9" selection-end-column="68" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/example/deep-learning-from-scratch/ch05/two_layer_net.py">
+    <entry file="file:///usr/local/lib/python3.7/site-packages/numpy/core/_methods.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-687" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example/deep-learning-from-scratch/common/functions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="563">
-          <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="27" />
+        <state relative-caret-position="345">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/notebook/ch05/mnist.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Library/Caches/PyCharm2019.1/python_stubs/-1199943126/builtins.py">
+    <entry file="file://$PROJECT_DIR$/deeplearning_ai/week2/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="4327" column="45" selection-start-line="4327" selection-start-column="45" selection-end-line="4327" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Library/Caches/PyCharm2019.1/python_stubs/-1199943126/numpy/random/mtrand.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="244" column="41" lean-forward="true" selection-start-line="244" selection-start-column="41" selection-end-line="244" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/notebook/ch05/two_layer_net">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1035">
-          <caret line="71" column="24" selection-start-line="71" selection-start-column="24" selection-end-line="71" selection-end-column="24" />
+        <state relative-caret-position="470">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/notebook/ch04/work/二层神经网络.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/notebook/ch05/layer.py">
+    <entry file="file://$PROJECT_DIR$/deeplearning_ai/week3/planar_utils.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="57" column="22" selection-start-line="57" selection-start-column="22" selection-end-line="57" selection-end-column="22" />
+        <state relative-caret-position="435">
+          <caret line="29" column="32" lean-forward="true" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/notebook/ch05/two_layer_net(1).py">
+    <entry file="file://$PROJECT_DIR$/deeplearning_ai/week3/logistic.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="109" column="49" selection-start-line="109" selection-start-column="49" selection-end-line="109" selection-end-column="49" />
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="12" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/example/deep-learning-from-scratch/common/optimizer.py">
+    <entry file="file://$PROJECT_DIR$/deeplearning_ai/week3/backward_propagation">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deeplearning_ai/week3/nn.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1426">
-          <caret line="99" column="45" selection-start-line="99" selection-start-column="13" selection-end-line="99" selection-end-column="45" />
+        <state relative-caret-position="213">
+          <caret line="91" column="36" selection-start-line="91" selection-start-column="36" selection-end-line="91" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deeplearning_ai/week4/lr_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+          <folding>
+            <element signature="e#14#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deeplearning_ai/week3/testCases.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deeplearning_ai/week4/testCases.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deeplearning_ai/week2/datasets/train_catvnoncat.h5">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deeplearning_ai/week4/datasets/test_catvnoncat.h5">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///usr/local/lib/python3.7/site-packages/h5py/_hl/files.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-531">
+          <caret line="393" selection-start-line="393" selection-end-line="393" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.7/site-packages/numpy/matrixlib/defmatrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="116" column="8" selection-start-line="116" selection-start-column="8" selection-end-line="116" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deeplearning_ai/week4/test" />
+    <entry file="file://$PROJECT_DIR$/notebook/common/layers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1843">
+          <caret line="78" selection-start-line="78" selection-end-line="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deeplearning_ai/week4/dnn_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.7/site-packages/numpy/core/numeric.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="222" selection-start-line="222" selection-end-line="222" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deeplearning_ai/week4/nn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="102" column="14" selection-start-line="102" selection-start-column="13" selection-end-line="102" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deeplearning_ai/week4/layers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="68" column="13" selection-start-line="68" selection-start-column="13" selection-end-line="68" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deeplearning_ai/week4/mynn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-197">
+          <caret line="46" column="19" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

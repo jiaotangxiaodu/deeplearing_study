@@ -1,60 +1,61 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 import numpy as np
+def identity_function(x):
+    return x
 
 
-# In[2]:
+def step_function(x):
+    return np.array(x > 0, dtype=np.int)
 
 
-def _gradient_vector(f,x,h):
-    g = np.zero_like(x)
-    for i,feature in enumerate(x):
-        x[i] = feature + h
-        y_high = f(x)
-        x[i] = feature - h
-        y_low = f(x)
-        x[i] = feature
-        g[i] = (y_high - y_low) / (2*h)
-    return g
+def sigmoid(x):
+    return 1 / (1 + np.exp(-x))
 
 
-# In[7]:
+def sigmoid_grad(x):
+    return (1.0 - sigmoid(x)) * sigmoid(x)
 
 
-def _gradient_matrix(f,x,h):
-    return np.array([_gradient_vector(f,row,h) for row in x])
+def relu(x):
+    return np.maximum(0, x)
 
 
-# In[16]:
-
-
-def gradient(f,x,h=1e-6):
-    x = np.array(x,dtype='float')
-    if x.ndim == 1:
-        return _gradient_vector(f,x,h)
-    return _gradient_matrix(f,X,h)
-
-
-# In[22]:
+def relu_grad(x):
+    grad = np.zeros(x)
+    grad[x >= 0] = 1
+    return grad
 
 
 def softmax(x):
-    return np.exp(x)/np.sum(np.exp(x))
+    if x.ndim == 2:
+        x = x.T
+        x = x - np.max(x, axis=0)
+        y = np.exp(x) / np.sum(np.exp(x), axis=0)
+        return y.T
+
+    x = x - np.max(x)  # 溢出对策
+    return np.exp(x) / np.sum(np.exp(x))
 
 
-# In[57]:
+def mean_squared_error(y, t):
+    return 0.5 * np.sum((y - t) ** 2)
 
 
-def cross_entropy_error(y,t,delta=1e-8):
-    return - t.dot(np.log(y+delta))
+def cross_entropy_error(y, t):
+    if y.ndim == 1:
+        t = t.reshape(1, t.size)
+        y = y.reshape(1, y.size)
+
+    # 监督数据是one-hot-vector的情况下，转换为正确解标签的索引
+    if t.size == y.size:
+        t = t.argmax(axis=1)
+
+    batch_size = y.shape[0]
+    return -np.sum(np.log(y[np.arange(batch_size), t] + 1e-7)) / batch_size
 
 
-# In[ ]:
-
+def softmax_loss(X, t):
+    y = softmax(X)
+    return cross_entropy_error(y, t)
 
 
 

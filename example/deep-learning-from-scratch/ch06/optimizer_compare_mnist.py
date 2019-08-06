@@ -51,7 +51,8 @@ for i in range(max_iterations):
         print( "===========" + "iteration:" + str(i) + "===========")
         for key in optimizers.keys():
             loss = networks[key].loss(x_batch, t_batch)
-            print(key + ":" + str(loss))
+            accuacury = networks[key].accuracy(x_train,t_train)
+            print(key + ":" + str(loss)+",accuacury:"+str(accuacury))
 
 
 # 3.绘制图形==========

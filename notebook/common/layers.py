@@ -196,6 +196,8 @@ class BatchNormalization:
 
 
 class Convolution:
+    ## W = 形状为(FN, C, FH, FW)的张量
+    ## b = 形状为(FN)的张量
     def __init__(self, W, b, stride=1, pad=0):
         self.W = W
         self.b = b

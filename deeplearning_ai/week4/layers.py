@@ -74,6 +74,7 @@ class Affine(AbstractLayer):
 
 
 class LogCost(CostLayer):
+    eposilon = 1e-8
 
     def forward(self, Y_hat, Y):
         m = Y.shape[1]
@@ -81,4 +82,5 @@ class LogCost(CostLayer):
 
     def backward(self, Y_hat, Y):
         m = Y.shape[1]
+
         return -(1./m)*(Y / Y_hat - (1. - Y) / (1. - Y_hat))

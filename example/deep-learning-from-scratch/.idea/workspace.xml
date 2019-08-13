@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e192d88e-49fe-48c3-93f7-3d6039de8ad3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../deeplearning_ai/week4/mynn_test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../deeplearning_ai/week4/mynn_test2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../deeplearning_ai/week5/data.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../deeplearning_ai/week5/exercise" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/deeplearningProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/deeplearningProjects.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../deeplearning_ai/week4/layers.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../deeplearning_ai/week4/layers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../deeplearning_ai/week4/nn.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../deeplearning_ai/week4/nn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../deeplearning_ai/week4/mynn.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../deeplearning_ai/week4/mynn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,44 +19,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch05/train_neuralnet.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="37" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch05/two_layer_net.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/common/layers.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="72" column="34" lean-forward="true" selection-start-line="72" selection-start-column="34" selection-end-line="72" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/common/functions.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="45" column="4" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -61,10 +30,17 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/common/util.py" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="258" />
+    <option name="x" value="24" />
     <option name="y" value="23" />
-    <option name="width" value="1110" />
+    <option name="width" value="1396" />
     <option name="height" value="793" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -80,26 +56,6 @@
             <path>
               <item name="deep-learning-from-scratch" type="b2602c69:ProjectViewProjectNode" />
               <item name="deep-learning-from-scratch" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="deep-learning-from-scratch" type="b2602c69:ProjectViewProjectNode" />
-              <item name="deep-learning-from-scratch" type="462c0819:PsiDirectoryNode" />
-              <item name="ch05" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="deep-learning-from-scratch" type="b2602c69:ProjectViewProjectNode" />
-              <item name="deep-learning-from-scratch" type="462c0819:PsiDirectoryNode" />
-              <item name="ch06" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="deep-learning-from-scratch" type="b2602c69:ProjectViewProjectNode" />
-              <item name="deep-learning-from-scratch" type="462c0819:PsiDirectoryNode" />
-              <item name="ch07" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="deep-learning-from-scratch" type="b2602c69:ProjectViewProjectNode" />
-              <item name="deep-learning-from-scratch" type="462c0819:PsiDirectoryNode" />
-              <item name="ch08" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -139,18 +95,19 @@
       <updated>1564976380700</updated>
       <workItem from="1564976382118" duration="927000" />
       <workItem from="1565058190248" duration="586000" />
-      <workItem from="1565061747377" duration="2602000" />
+      <workItem from="1565061747377" duration="3052000" />
+      <workItem from="1565167327847" duration="3590000" />
+      <workItem from="1565579186893" duration="40000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4115000" />
+    <option name="totallyTimeSpent" value="8195000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="258" y="23" width="1110" height="793" extended-state="0" />
-    <editor active="true" />
+    <frame x="24" y="23" width="1396" height="793" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.124531835" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21787296" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -194,17 +151,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/common/layers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="72" column="34" selection-start-line="72" selection-start-column="34" selection-end-line="72" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/common/functions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
+        <state relative-caret-position="675">
           <caret line="45" column="4" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/common/layers.py">
+    <entry file="file://$PROJECT_DIR$/common/optimizer.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/util.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="72" column="34" lean-forward="true" selection-start-line="72" selection-start-column="34" selection-end-line="72" selection-end-column="34" />
+        <state relative-caret-position="75">
+          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
         </state>
       </provider>
     </entry>

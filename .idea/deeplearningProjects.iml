@@ -6,7 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/example/deep-learning-from-scratch/ch06" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/example/deep-learning-from-scratch/dataset" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/notebook" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/deeplearning_ai/week4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/deeplearning_ai/week5-2/lib" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

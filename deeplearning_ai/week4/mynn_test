@@ -1,0 +1,52 @@
+import numpy as np
+import matplotlib.pyplot as plt
+from layers import *
+from mynn import MultiLayersNN
+from sklearn.datasets import load_digits
+
+
+def plot_decision_boundary(model, axis):
+    x0, x1 = np.meshgrid(
+        np.linspace(axis[0], axis[1], int((axis[1] - axis[0]) * 100)).reshape(-1, 1),
+        np.linspace(axis[2], axis[3], int((axis[3] - axis[2]) * 100)).reshape(-1, 1)
+    )
+    X_new = np.c_[x0.ravel(), x1.ravel()]
+    y_predict = model.predict(X_new)
+    zz = y_predict.reshape(x0.shape)
+    from matplotlib.colors import ListedColormap
+    custom_cmap = ListedColormap(['#EF9A9A', '#FFF59D'])
+    plt.contourf(x0, x1, zz, linewidth=5, cmap=custom_cmap)
+
+def pltXY(_X,_Y):
+    squY0 = (_Y == 0).squeeze()
+    squY1 = (_Y == 1).squeeze()
+    plt.scatter(_X[0, squY0], _X[1, squY0])
+    plt.scatter(_X[0, squY1], _X[1, squY1])
+
+
+
+if __name__ == '__main__':
+    X = np.random.randn(2,10000)
+    Y = np.array((X[0] ** 3 + X[1] > 0),dtype='int').reshape(1,-1)
+    X_test = np.random.randn(2,100)
+    Y_test = np.array((X_test[0] ** 3 + X_test[1] > 0),dtype='int').reshape(1,-1)
+
+    model = MultiLayersNN(layer_dims=(2,3,3,1))
+    model.fit(X,Y,lr= 1,iter_num=2500,print_cost=True)
+    train_accuracy = model.accuracy(X,Y)
+    test_accuracy = model.accuracy(X_test,Y_test)
+    print('train_accu = %f'%train_accuracy)
+    print('test_accu = %f'%test_accuracy)
+    class TempModel:
+        def predict(self,X):
+            return (model.predict(X.T)).T
+
+    plot_decision_boundary(TempModel(),(-4,4,-4,4))
+    pltXY(X_test,Y_test)
+    plt.show()
+
+
+
+
+
+

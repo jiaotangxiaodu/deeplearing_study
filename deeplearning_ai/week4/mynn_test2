@@ -1,0 +1,37 @@
+import numpy as np
+from layers import *
+from mynn import MultiLayersNN
+from sklearn.datasets import load_digits
+from sklearn.model_selection import train_test_split
+import matplotlib.pyplot as plt
+
+def load_data():
+    digits = load_digits()
+    X_train_T, X_test_T, Y_train_T, Y_test_T = train_test_split(digits.data, digits.target)
+    y_train_select = np.array(np.array(Y_train_T == 0, dtype='int') + np.array(Y_train_T == 1, dtype='int') > 0,
+                              dtype='bool').squeeze()
+    y_test_select = np.array(np.array(Y_test_T == 0, dtype='int') + np.array(Y_test_T == 1, dtype='int') > 0,
+                             dtype='bool').squeeze()
+    X_train_T = X_train_T[y_train_select, :]
+    Y_train_T = Y_train_T[y_train_select]
+    X_test_T = X_test_T[y_test_select, :]
+    Y_test_T = Y_test_T[y_test_select]
+
+    return X_train_T.T, X_test_T.T, Y_train_T.T.reshape(1, -1), Y_test_T.T.reshape(1, -1)
+
+
+if __name__ == '__main__':
+    X_train, X_test, Y_train, Y_test = load_data()
+    model = MultiLayersNN(layer_dims=(X_train.shape[0], 7, Y_train.shape[0]))
+    model.fit(X_train, Y_train, iter_num=3000, lr=0.001, print_cost_100=True)
+    train_accuracy = model.accuracy(X_train, Y_train)
+    test_accuracy = model.accuracy(X_test, Y_test)
+
+    print("train_accuracy = %f" % train_accuracy)
+    print("test_accuracy = %f" % test_accuracy)
+
+    for X_t,Y_t in zip(X_test.T,Y_test.T):
+        img_shape = X_t.reshape(8,-1)/255.
+        plt.imshow(img_shape,cmap='gray')
+        plt.show()
+        print(Y_t)

@@ -38,12 +38,15 @@ class MultiLayersNN:
         # cost layer
         self.cost_layer = LogCost()
 
-    def fit(self, train_x, train_y, iter_num=3000, lr=0.0075):
+    def fit(self, train_x, train_y, iter_num=3000, lr=0.0075,print_cost_100=False,print_cost_1=False):
         for n in range(iter_num):
             A = train_x
             for layer in self.layers:
                 A = layer.forward(A)
-            if n % 1 == 0:
+            if print_cost_100 and n % 100 == 0:
+                cost = self.cost_layer.forward(A, train_y)
+                print('iter=%i,cost=%f' % (n, cost))
+            if print_cost_1:
                 cost = self.cost_layer.forward(A, train_y)
                 print('iter=%i,cost=%f' % (n, cost))
             dY = self.cost_layer.backward(A, train_y)
